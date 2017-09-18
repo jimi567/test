@@ -21,7 +21,7 @@
 
 # 코드 리뷰 피드백 1
 
-![사진](page 3.png)
+![사진](https://github.com/jimi567/test/blob/master/week3/page%203.png)
 
 위 코드 처럼 parse의 길이가 4이상일때, 4보다 크면 
 추가적인 단어는 무시함을 알리고 동작을 수행하도록 했음
