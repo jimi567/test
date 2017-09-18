@@ -31,7 +31,7 @@
 
 # 코드 리뷰 피드백 2
 
-![사진](page4.png)
+![사진](https://github.com/jimi567/test/blob/master/week3/page4%20.png)
 
 Inc의 경우 두번째 단어는 정수타입이 되어야 정상적으로 작동함
 고로 만약 두번째 단어가 정수 이외의 타입의(ex :str, float)이 들어왔을때
@@ -41,7 +41,7 @@ Inc 부분에서 이 부분의 예외처리를 빠트려 리뷰 시간에 피드
 
 # del 코드 수정 
 
-![사진](page 5.png)
+![사진](https://github.com/jimi567/test/blob/master/week3/page%205.png)
 
 55 : 빈 리스트를 생성
 56 : parse의 길이가 2 이상일때 참인 조건문
@@ -49,7 +49,7 @@ Inc 부분에서 이 부분의 예외처리를 빠트려 리뷰 시간에 피드
 59 : scdb 리스트의 요소를 하나하나 순환하는 반복문 
 60 : parse의 두번째 단어 (데이터베이스에서 지울 이름)의 첫글자를 대문자로 변환
 
-![사진](page6.png)
+![사진](https://github.com/jimi567/test/blob/master/week3/page6%20.png)
 
 61 : 입력받은 두번째 단어가 scdb의 요소(P 이때 이 요소는 딕셔너리임 )의 Name의 value값과 같다면 
      실행하는 조건문
@@ -60,7 +60,7 @@ Inc 부분에서 이 부분의 예외처리를 빠트려 리뷰 시간에 피드
      그 삭제된 딕셔너리 대신 2를 넣어줌(scdb의 리스트 요소들의 전체적인  인덱스 값이 변하는걸 방지)
 66, 67: scdb리스트 요소에 들어간 인덱스값을 remove
 
-![사진](page7.png)
+![사진](https://github.com/jimi567/test/blob/master/week3/page7.png)
 
 Name이 Kim인 데이터를 문제없이 모두 삭제했음
 
